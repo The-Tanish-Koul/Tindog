@@ -1,0 +1,146 @@
+ /* HEADER AND TITLE SECTION */
+
+#title{
+  background-color: #ff4c68;
+}
+
+
+h1{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.container-fluid{
+  padding: 3% 15%;
+}
+
+.navbar{
+  padding: 4.5rem;
+}
+
+.navbar-brand{
+  font-family: 'Sacramento', cursive;
+  font-size: 5.5rem;
+}
+
+.nav-item{
+  font-family: 'Ubuntu', sans-serif;
+  padding: 0 18px;
+}
+
+.nav-link{
+  color: white;
+  font-size: 1.5rem;
+}
+
+.download{
+  margin: 5% 3% 5% 0;
+}
+
+.title-image{
+  width: 60%;
+  position: relative;
+  bottom: 10px;
+
+}
+
+/* FEATURES */
+
+#features{
+  margin: 50px;
+  padding: 7% 15%;
+  text-align: center;
+
+}
+
+h3{
+  color: black;
+  font-family: 'Montserrat-bold', sans-serif;
+  font: 1.5rem;
+}
+
+p{
+  color: #8f8f8f;
+}
+
+.col-lg-4 col-md-12{
+  text-align: center;
+  padding: 5%
+}
+
+.icon{
+  color: #ef8172;
+  margin: 1rem;
+}
+
+.icon:hover{
+  color: #ff4c68;
+}
+
+
+/* TESTIMONIALS SECTION  */
+
+#testimonials{
+  background-color: #ef8172;
+  text-align: center;
+  padding: 7% 15%;
+
+}
+
+h2{
+  font-family: 'Bebas Neue', cursive;
+  font-size: 3rem;
+  margin: 20px;
+}
+
+.testimonial-image{
+  border-radius: 100%;
+  margin: 20px;
+  width: 20%
+}
+
+/* PRESS */
+
+#press{
+  background-color: #ef8172;
+  text-align: center;
+  padding-bottom: 3% ;
+}
+
+.press-logo{
+  margin: 20px;
+  width: 20%;
+}
+
+/* PRICING */
+
+#pricing{
+  text-align: center;
+  padding: 100px;
+}
+
+
+/* CALL TO ACTION */
+
+#cta {
+  text-align: center;
+  background-color: #ff4c68;
+  padding: 7% 15%;
+  /* font-family: 'Grape Nuts', cursive; */
+}
+
+#cta h3{
+  font-family: 'Bebas Neue', cursive;
+  font-size: 2rem;
+}
+
+footer {
+  text-align: center;
+  padding: 2% 5%;
+ font-family: 'Merriweather', serif;
+}
+
+.social-icons{
+  margin: 30px 20px;
+}
